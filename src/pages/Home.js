@@ -15,5 +15,5 @@ export default function Home(){
 
 //Criando os estilos
 const styles = StyleSheet.create{(
-
-)};
+    container 
+)}
