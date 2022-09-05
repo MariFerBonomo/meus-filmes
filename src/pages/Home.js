@@ -6,12 +6,16 @@ export default function Home(){
     return(
         <View>
             <Text>Meus Filmes</Text>
-            <Text>Olá Maria, boa noite!</Text>   
+            <Text>Olá Maria, boa noite!</Text> 
+
+              <TouchableOpacity>
+            <Text>Adicionar</Text>
+            </TouchableOpacity>  
         </View>
     );
 }
 
 //Criando os estilos
 const styles = StyleSheet.create({
-    
+
 })
